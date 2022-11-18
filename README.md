@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif)]
+[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)]
 
 <h1 align="center">David Sam</h1>
 <h3 align="center">A world class Computer Engineering graduate, Specialised in Data Science, Web Development, Ui/Ux and software Development.</h3>
