@@ -1,5 +1,3 @@
-![MasterHead]([https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif](https://tenor.com/bTB50.gif))
-
 <h1 align="center">David Sam</h1>
 <h3 align="center">Specialised in Data Science, Web Development, Ui/Ux and software Development.</h3>
 
