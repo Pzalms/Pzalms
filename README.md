@@ -1,9 +1,7 @@
-![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
+![MasterHead]([https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif](https://tenor.com/bTB50.gif))
 
 <h1 align="center">David Sam</h1>
 <h3 align="center">Specialised in Data Science, Web Development, Ui/Ux and software Development.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0OlmhE1Xy5NuD65wwz6-4M&ust=1685136166835000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiL58azkf8CFQAAAAAdAAAAABAJ">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzalms&label=Profile%20views&color=0e75b6&style=flat" alt="Pzalms" /> </p>
