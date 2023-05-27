@@ -1,5 +1,5 @@
 <h1 align="center">David Sam</h1>
-<h3 align="center">Specialised in Data Science, Web Development, Ui/Ux and software Development.</h3>
+<h3 align="center">Specialised in Data Science, Web Development, Business Analysis and Software Engineering.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzalms&label=Profile%20views&color=0e75b6&style=flat" alt="Pzalms" /> </p>
@@ -10,9 +10,10 @@
 
 - I’m currently learning **VueJs, ReactJS & Java**
 
-- Ask me about **Artificial Intelligence**
+- Ask me about **Artificial Intelligence & Business Analysis**
 
-- Email me **Samadejor22@gmail.com**
+- Email me **samadejor22@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
