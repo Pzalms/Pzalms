@@ -2,7 +2,7 @@
 <h3 align="center">Specialised in Data Science, Web Development, Business Analysis and Software Engineering.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pzalms&label=Profile%20views&color=0e75b6&style=flat" alt="Pzalms" /> </p> <p align="left"> <a href="https://twitter.com/prodpzalm" target="blank"><img src="https://img.shields.io/twitter/follow/prodpzalm?logo=twitter&style=for-the-badge" alt="Pzalms" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pzalms&label=Profile%20views&color=0e75b6&style=flat" alt="Pzalms" /> </p> 
 
 - I’m currently working on **Data Analysis & Web Development**
 
