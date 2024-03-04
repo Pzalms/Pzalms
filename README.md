@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzalms&label=Profile%20views&color=0e75b6&style=flat" alt="Pzalms" /> </p> 
 
-- I’m currently working on **Continual Learning and Distributed**
+- I’m currently working on **Continual Learning and Distributed Systems**
 - Email me **samadejor22@gmail.com**
 
 
