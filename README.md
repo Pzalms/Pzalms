@@ -1,10 +1,10 @@
 <h1 align="center">David Sam</h1>
-<h3 align="center">Specialised in Data Science, Web Development, Business Analysis and Software Engineering.</h3>
+<h3 align="center">Specialised in Artificial Intelligence, Web Development, Business Analysis and Software Engineering.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzalms&label=Profile%20views&color=0e75b6&style=flat" alt="Pzalms" /> </p> 
 
-- I’m currently working on **Continual Learning and Distributed Systems**
+- I’m currently working on **Artificial Intelligence and Distributed Systems**
 - Email me **samadejor22@gmail.com**
 
 
